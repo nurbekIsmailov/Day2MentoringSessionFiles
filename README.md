@@ -6,3 +6,5 @@ Selenium locators (find by link, id, linktext etc),
 
 Eclipse shortcuts 
 https://shortcutworld.com/en/Eclipse/win/all
+https://dzone.com/articles/effective-eclipse-shortcut-key
+https://www.shortcutfoo.com/app/dojos/eclipse-mac/cheatsheet
